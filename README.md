@@ -4,7 +4,7 @@
 I created a program that displays a flashcard in the command line. Each flashcard contains a question and possible answers, and users are able to make guesses and see the percentage of answers correct at the end.
 
 ## Preview of App
-![gif](https://giphy.com/embed/XmZLzfCzj42Ath130u)
+![flashcards gif](https://giphy.com/embed/XmZLzfCzj42Ath130u)
 
 ## Technologies Used
 - JavaScript
